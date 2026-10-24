@@ -55,17 +55,6 @@ Este proyecto impacta directamente en los siguientes ODS de la Agenda 2030:
 
 ---
 
-## 📋 Asignación de Pines y Conexiones
-
-| Componente | Función | Pin Arduino UNO R4 | Tipo |
-| :--- | :--- | :--- | :--- |
-| **Módulo IoT / ESP** | Comunicación Serial / Wi-Fi | Pines TX / RX o I2C | Digital / Bus |
-| **Servo / Motor Compuerta** | Apertura de depósito | Pin 9 | PWM |
-| **Sensor Presencia / Tapa** | Detección de recipiente lleno | Pin A0 | Digital In |
-| **Alimentación Lógica** | VCC / GND | 5V / GND Común | Alimentación |
-
----
-
 ## 👥 Equipo Creador
 * **Estudiantes:** Frank Jair Gutierrez Camargo, Shauny Carolina Bailon Perea, Camilo Andres Solano Arce, Maria Sofia Mendoza Ebratt, Juan Jose Diago Quiñones, Flor Marieth De Leon Espino.
 * **Docente Líder:** Maria Del Pilar Hernandez Calderon.
